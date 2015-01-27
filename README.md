@@ -3,6 +3,9 @@ Graphics used for Hitchwiki projects.
 
 Contact [Mikael](http://www.mikaelkorpela.fi/) if you need more or have questions.
 
+# HEX
+* For ratings, see [colours](https://github.com/Hitchwiki/hitchwiki/wiki/API#colors).
+
 ## Licensing
 
 ### Hitchwiki graphics and logo
