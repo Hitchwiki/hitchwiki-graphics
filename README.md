@@ -1,7 +1,6 @@
 # Hitchwiki graphics
 Graphics used for Hitchwiki projects.
 
-Contact [Mikael](http://www.mikaelkorpela.fi/) if you need more or have questions.
 
 # HEX
 * For ratings, see [colours](https://github.com/Hitchwiki/hitchwiki/wiki/API#colors).
@@ -11,9 +10,6 @@ Contact [Mikael](http://www.mikaelkorpela.fi/) if you need more or have question
 ### Hitchwiki graphics and logo
 Mostly by [Mikael Korpela](http://www.mikaelkorpela.fi/)
 [Creative Commons Attribution-Share Alike 4.0 Unported license](https://creativecommons.org/licenses/by-sa/4.0/)
-
-### "The Thumb"
-By; Whom? Forgotten in spawns of Hitchwiki history. :-)
 
 ### 888 Signs
  [Robino](https://www.flickr.com/photos/robino/)
